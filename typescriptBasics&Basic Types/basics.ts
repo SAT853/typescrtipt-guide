@@ -13,7 +13,7 @@ function add1(n1: number, n2: number, showResult: boolean, phrase: string) {
 let number1: number;
 number1 = 5;
 const number2 = 2.8;
-// const printResult = true;
+const printResult1 = true;
 let resultPhrase = 'Result is: ';
 
-add1(number1, number2, true, resultPhrase);
+add1(number1, number2, printResult1, resultPhrase);
